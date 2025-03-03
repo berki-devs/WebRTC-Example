@@ -9,7 +9,7 @@ import { usePeerConnection } from '@/features/peer-connection'
 import { Badge, Card, CardHeader, CardTitle } from '@/shared/ui'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/shared/ui/tabs'
 
-export function ChatPage() {
+export default function ChatPage() {
 	const {
 		peerId,
 		connected,
