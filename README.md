@@ -1,6 +1,6 @@
 # WebRTC-Example
 
-This is simple example of WebRTC chat application built with Next.js 15, Tailwind CSS, shadcn/ui, and PeerJS. This repository provides a basic implementation of real-time peer-to-peer communication using WebRTC
+This is simple example of WebRTC chat application built with Next.js 15, Tailwind CSS, shadcn/ui, PeerJS, and FSD. This repository provides a basic implementation of real-time peer-to-peer communication using WebRTC
 ## Getting Started
 
 ### 1️⃣ Clone the Repository
